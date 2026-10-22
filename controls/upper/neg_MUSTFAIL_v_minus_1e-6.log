@@ -1,0 +1,5 @@
+polys 37 (active 37), nodes 7943, support [0.145, 20.0], X = 20, s = 1.00000102, claim v = 0.3250461251
+(U1) sum b deg = 0.946577 < s = 1.000001  OK
+(U2) int log|Q_j| dmu > 0 for all 37 active Q_j; smallest 1.696e-06
+CheckError: (V) claim v below (1/s) int g dmu
+NOT VERIFIED
